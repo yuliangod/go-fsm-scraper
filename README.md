@@ -1,0 +1,1 @@
+Scraper to scrape price data for unit trusts from https://secure.fundsupermart.com/fsmone/home . Can download prices concurrently to reduce time spent waiting for downloads.
